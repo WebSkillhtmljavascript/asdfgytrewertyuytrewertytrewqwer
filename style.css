@@ -32,9 +32,9 @@ img {
 
 .r1 {
 
-    width: 25px;
+      width: 25px;
     height: 25px;
-    color: green;
+    background-color: green;
     font-size: 16px ;
     border: 5px ;
 }
