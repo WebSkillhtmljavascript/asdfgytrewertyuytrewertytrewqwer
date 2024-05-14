@@ -33,11 +33,12 @@ img {
 .r1 {
 
     width: 25px;
-    height: 25px
+    height: 25px;
     color: green;
     font-size: 16px ;
-    border: 1px ;
+    border: 5px ;
 }
+
 
 @media screen and (max-wight:600px) {
     body {
