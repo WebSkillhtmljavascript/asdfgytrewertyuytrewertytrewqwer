@@ -81,39 +81,3 @@ a {
         display: none;
     }
 }
-.square {
-  width: 100px;
-  height: 100px;
-  background-color: purple;
-
-  /* Центрування елемента */
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-   
-
-@keyframes bounce {
-  0% {
-    top: 90%;
-  }
-  100% {
-    top: 10%;
-  }
-}
-.square {
-  animation-name: bounce;
-  animation-duration: 2s;
-}
-@keyframes bounce {
-  0% {
-    top: 90%;
-  }
-  50% {
-    top: 10%;
-  }
-  100% {
-    top: 90%;
-  }
-}
