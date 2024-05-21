@@ -81,5 +81,16 @@ a {
         display: none;
     }
 }
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+
+  /* Центрування елемента */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
    
 
